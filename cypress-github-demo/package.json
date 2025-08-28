@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@cypress/github-action": "^6.10.2",
     "cypress": "^15.0.0"
   }
 }
